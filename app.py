@@ -1,7 +1,7 @@
 #LANGCHAIN_API_KEY= "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"
 #LANGCHAIN_PROJECT="CHATBOT"
 #NEWS_API_KEY= "269690daf24141a295ef1ce43d8184f3"
-from langchain_openai import ChatOpenAI
+
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langchain_community.llms import Ollama
