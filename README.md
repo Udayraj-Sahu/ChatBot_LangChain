@@ -1,7 +1,3 @@
-Sure! To create a `README.md` file for your GitHub repository, you can follow this template. It will cover the basics, such as project description, setup instructions, and usage examples.
-
-Here's a sample `README.md` based on the information provided:
-
 ```markdown
 # LangChain Demo With Ollama API
 
